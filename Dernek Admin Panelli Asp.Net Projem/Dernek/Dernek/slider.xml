@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<slider>
+  <slider resim="slider/slider1.jpg" />
+  <slider resim="slider/slider2.jpg" />
+  <slider resim="slider/slider3.jpg" />
+  <slider resim="slider/slider4.jpg" />
+</slider>

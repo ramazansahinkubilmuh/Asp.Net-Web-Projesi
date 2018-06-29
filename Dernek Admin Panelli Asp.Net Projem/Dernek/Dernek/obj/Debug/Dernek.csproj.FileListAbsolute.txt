@@ -1,0 +1,11 @@
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web-Proje\Dernek\Dernek\bin\Dernek.dll.config
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web-Proje\Dernek\Dernek\bin\Dernek.dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web-Proje\Dernek\Dernek\bin\Dernek.pdb
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web-Proje\Dernek\Dernek\obj\Debug\Dernek.dll
+C:\Users\Rmzn_Shn\Documents\Visual Studio 2013\Projects\Web-Proje\Dernek\Dernek\obj\Debug\Dernek.pdb
+C:\Users\Rmzn_Shn\Desktop\Dernek\Dernek\bin\Dernek.dll.config
+C:\Users\Rmzn_Shn\Desktop\Dernek\Dernek\bin\Dernek.dll
+C:\Users\Rmzn_Shn\Desktop\Dernek\Dernek\bin\Dernek.pdb
+C:\Users\Rmzn_Shn\Desktop\Dernek\Dernek\obj\Debug\Dernek.csprojResolveAssemblyReference.cache
+C:\Users\Rmzn_Shn\Desktop\Dernek\Dernek\obj\Debug\Dernek.dll
+C:\Users\Rmzn_Shn\Desktop\Dernek\Dernek\obj\Debug\Dernek.pdb
